@@ -15,8 +15,8 @@ I'm Fazril, a Backend Developer & love for anything Tech. JavaScript is my first
   </a>
 
 
-- Trying to be up to good on: <a href="http://twitter.com/fzrilsh">
-    <img src="https://img.shields.io/twitter/follow/fzrilsh?label=Twitter&logo=twitter&style=for-the-badge" />
+- Trying to be up to good on: <a href="http://instagram.com/fzrilsh_">
+    <img src="https://img.shields.io/instagram/follow/fzrilsh_?label=Instagram&logo=instagram&style=for-the-badge" />
   </a>
 
 
