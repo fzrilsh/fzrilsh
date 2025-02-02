@@ -19,18 +19,12 @@ I'm Fazril, a Backend Developer
 
 <p align="center">
 
-  <a href="https://www.instagram.com/fzrilsh_"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  
-- Contributing on: <a href="https://github.com/fzrilsh?tab=followers">
-    <img src="https://img.shields.io/github/followers/fzrilsh?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://www.instagram.com/fzrilsh_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-
-- Trying to be up to good on: <a href="http://www.instagram.com/fzrilsh_">
-    <img src="https://img.shields.io/instagram/follow/fzrilsh_?label=Instagram&logo=instagram&style=for-the-badge" />
+  <a href="https://www.linkedin.com/fazrilsyaveralhillaby">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
 
 </p>
 
