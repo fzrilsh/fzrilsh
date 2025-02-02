@@ -2,8 +2,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.
 
-I'm Fazril, a Backend Developer & love for anything Tech. JavaScript is my first language, exploring the machine learning & front-end the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, coding, basket, games, explore, adventure, and taekwondo.
-
+I'm Fazril, a Backend Developer
 
 ## Find me around the INTERNET🌎
 
