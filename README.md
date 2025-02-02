@@ -15,6 +15,8 @@ I'm Fazril, a Backend Developer
 
 ## Find me around the INTERNET🌎
 
+![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
+
 <p align="center">
   
   
