@@ -18,7 +18,9 @@ I'm Fazril, a Backend Developer
 ![snake gif](https://github.com/fzrilsh/fzrilsh/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
-  
+
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   
 - Contributing on: <a href="https://github.com/fzrilsh?tab=followers">
     <img src="https://img.shields.io/github/followers/fzrilsh?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
